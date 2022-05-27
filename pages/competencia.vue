@@ -18,8 +18,12 @@ export default {
 </script>
 
 
-<style lang="sass" scoped>
+<style lang="sass">
   @import "vue-notion/src/styles.css"
   .main
     @apply p-4 ml-[300px]
+    .notion
+      .notion-asset-wrapper
+        div
+        
 </style>

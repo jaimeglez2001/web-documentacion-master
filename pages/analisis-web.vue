@@ -16,7 +16,7 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped>
+<style lang="sass">
   .main
     @apply p-4 ml-[300px]
 </style>
